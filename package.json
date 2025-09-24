@@ -1,0 +1,22 @@
+{
+  "name": "playwright-get-started",
+  "version": "1.0.0",
+  "description": "some pw experiments",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokayyilmaz/playwright-get-started.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokayyilmaz/playwright-get-started/issues"
+  },
+  "homepage": "https://github.com/gokayyilmaz/playwright-get-started#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
